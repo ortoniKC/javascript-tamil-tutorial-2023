@@ -3,4 +3,7 @@
 Videos:
 
 [1. Node & VS Code Setup | JavaScript Tamil Tutorial - Part 1](https://youtu.be/2NVuia61QbE)
+
 [2. Introduction & Data Types | JavaScript Tamil Tutorial - Part 2](https://youtu.be/DbTMdEJPS2Q)
+
+[3. JS Operators | JavaScript Tamil Tutorial - Part 3](https://youtu.be/BAVMll9BAO4)
