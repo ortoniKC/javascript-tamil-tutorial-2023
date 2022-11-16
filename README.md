@@ -7,3 +7,9 @@ Videos:
 [2. Introduction & Data Types | JavaScript Tamil Tutorial - Part 2](https://youtu.be/DbTMdEJPS2Q)
 
 [3. JS Operators | JavaScript Tamil Tutorial - Part 3](https://youtu.be/BAVMll9BAO4)
+
+[4. Increment & Decrement | JavaScript Tamil Tutorial - Part 4](https://youtu.be/0iRpNys5bNg)
+
+[5. Comparison & Conditional | JavaScript Tamil Tutorial - Part 5](https://youtu.be/OJ8Ip7Wf3oU)
+
+[6. Loops & Iteration | JavaScript Tamil Tutorial - Part 6](https://youtu.be/SjRj47tUCF8)
