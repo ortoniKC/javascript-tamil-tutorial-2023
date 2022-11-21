@@ -13,3 +13,7 @@ Videos:
 [5. Comparison & Conditional | JavaScript Tamil Tutorial - Part 5](https://youtu.be/OJ8Ip7Wf3oU)
 
 [6. Loops & Iteration | JavaScript Tamil Tutorial - Part 6](https://youtu.be/SjRj47tUCF8)
+
+[7. While loop | JavaScript Tamil Tutorial - Part 7](https://youtu.be/4yIXkriuLtM)
+
+[8. Label, Break & Continue | JavaScript Tamil Tutorial - Part 8](https://youtu.be/baTUlgbDPoU)
