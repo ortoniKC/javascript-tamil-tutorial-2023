@@ -17,3 +17,5 @@ Videos:
 [7. While loop | JavaScript Tamil Tutorial - Part 7](https://youtu.be/4yIXkriuLtM)
 
 [8. Label, Break & Continue | JavaScript Tamil Tutorial - Part 8](https://youtu.be/baTUlgbDPoU)
+
+[let, var & const difference | JavaScript Tamil Tutorial - Part 9](https://youtu.be/ZvTZEI7MnEU)
