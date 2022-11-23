@@ -18,4 +18,6 @@ Videos:
 
 [8. Label, Break & Continue | JavaScript Tamil Tutorial - Part 8](https://youtu.be/baTUlgbDPoU)
 
-[let, var & const difference | JavaScript Tamil Tutorial - Part 9](https://youtu.be/ZvTZEI7MnEU)
+[9. let, var & const difference | JavaScript Tamil Tutorial - Part 9](https://youtu.be/ZvTZEI7MnEU)
+
+[10. What is an array? | JavaScript Tamil Tutorial - Part](https://youtu.be/pyYc8EqgJqs)
