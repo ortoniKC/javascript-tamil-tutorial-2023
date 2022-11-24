@@ -21,3 +21,7 @@ Videos:
 [9. let, var & const difference | JavaScript Tamil Tutorial - Part 9](https://youtu.be/ZvTZEI7MnEU)
 
 [10. What is an array? | JavaScript Tamil Tutorial - Part](https://youtu.be/pyYc8EqgJqs)
+
+[11. What is for in & for of iterator | JavaScript Tamil Tutorial - Part 11](https://youtu.be/KMQtHQNAFNA)
+
+[12. JS functions | JavaScript Tamil Tutorial - Part 12](https://youtu.be/yoReHabLlZs)
