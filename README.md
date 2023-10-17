@@ -37,3 +37,5 @@ Videos:
 [17. Equality vs Strict Equality Operator | JavaScript Tamil Tutorial - Part 17](https://youtu.be/c8lfbLjhw-8)
 
 [18. How Slice is different from SubString | JavaScript Tamil Tutorial - Part 18](https://youtu.be/o_dIOSiJ09Y)
+
+[19. Replace, IndexOf & Concat | JavaScript Tamil Tutorial - Part 19](https://youtu.be/b9P1zaWRSCk)
