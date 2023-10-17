@@ -25,3 +25,15 @@ Videos:
 [11. What is for in & for of iterator | JavaScript Tamil Tutorial - Part 11](https://youtu.be/KMQtHQNAFNA)
 
 [12. JS functions | JavaScript Tamil Tutorial - Part 12](https://youtu.be/yoReHabLlZs)
+
+[13. Conditional statements | JavaScript Tamil Tutorial - Part 13](https://youtu.be/qFjBFAu-UrQ)
+
+[14. String concepts - Immutable | JavaScript Tamil Tutorial - Part 14](https://youtu.be/0zjdBRJjITQ)
+
+[15. String concepts - Split | JavaScript Tamil Tutorial - Part 15](https://youtu.be/tluUSu5955Y)
+
+[16. String concepts - Verification functions | JavaScript Tamil Tutorial - Part 16](https://youtu.be/MXRM2amMzPM)
+
+[17. Equality vs Strict Equality Operator | JavaScript Tamil Tutorial - Part 17](https://youtu.be/c8lfbLjhw-8)
+
+[18. How Slice is different from SubString | JavaScript Tamil Tutorial - Part 18](https://youtu.be/o_dIOSiJ09Y)
