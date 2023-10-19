@@ -41,3 +41,5 @@ Videos:
 [19. Replace, IndexOf & Concat | JavaScript Tamil Tutorial - Part 19](https://youtu.be/b9P1zaWRSCk)
 
 [20. What is a Callback in JS? | JavaScript Tamil Tutorial - Part 20 ](https://youtu.be/8aWrht26GHg)
+
+[21. Arrays concepts - Part 2 | JavaScript Tamil Tutorial - Part 21](https://youtu.be/6UtPgtc-kV8)

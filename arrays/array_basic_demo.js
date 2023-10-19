@@ -25,9 +25,6 @@ for (const data in myData) {
 // }
 
 
-
-
-
 // console.log(fruits);
 
 // fruits[6] = "banana";
