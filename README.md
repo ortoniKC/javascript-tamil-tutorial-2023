@@ -43,3 +43,5 @@ Videos:
 [20. What is a Callback in JS? | JavaScript Tamil Tutorial - Part 20 ](https://youtu.be/8aWrht26GHg)
 
 [21. Arrays concepts - Part 2 | JavaScript Tamil Tutorial - Part 21](https://youtu.be/6UtPgtc-kV8)
+
+[22. What is Promise, async and await in JS? | JavaScript Tamil Tutorial - Part 22](https://youtu.be/Po_SZtXdrOI)
