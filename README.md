@@ -45,3 +45,5 @@ Videos:
 [21. Arrays concepts - Part 2 | JavaScript Tamil Tutorial - Part 21](https://youtu.be/6UtPgtc-kV8)
 
 [22. What is Promise, async and await in JS? | JavaScript Tamil Tutorial - Part 22](https://youtu.be/Po_SZtXdrOI)
+
+[23. Arrays concepts - Part 3 | JavaScript Tamil Tutorial - Part 23](https://youtu.be/DWYUJ-jTH6w)
